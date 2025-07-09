@@ -23,4 +23,4 @@ print('dossier vide')
 
 
 
->>>>>>> a5f7041 (projet.py version 5)
+
